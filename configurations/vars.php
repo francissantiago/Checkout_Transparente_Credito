@@ -8,7 +8,6 @@ if($pagSeguroMode == 1){
 	$ps_Token = "SEU_TOKEN";
 	$ps_pubKeyURL = "https://sandbox.api.pagseguro.com/public-keys/";
 	$ps_ordersURL = "https://sandbox.api.pagseguro.com/orders";
-	$ps_sessionsURL = "https://sandbox.api.pagseguro.com/checkout-sdk/sessions";
 	$ps_clientEmail = "seu_email_pagseguro@mail.com";
 	$ps_billIdentification = "MINHALOJA";
 	$ps_webhookPagSeguro = "https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/";
@@ -16,7 +15,6 @@ if($pagSeguroMode == 1){
 	$ps_Token = "SEU_TOKEN";
 	$ps_pubKeyURL = "https://api.pagseguro.com/public-keys/";
 	$ps_ordersURL = "https://api.pagseguro.com/orders";
-	$ps_sessionsURL = "https://api.pagseguro.com/checkout-sdk/sessions";
 	$ps_clientEmail = "seu_email_pagseguro@mail.com";
 	$ps_billIdentification = "MINHALOJA";
 	$ps_webhookPagSeguro = "https://ws.pagseguro.uol.com.br/v2/transactions/notifications/";
