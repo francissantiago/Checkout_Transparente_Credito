@@ -81,7 +81,7 @@ if(isset($_POST['cc_encrypted'])){
 					"holder"=> [
 						"name"=> $input_customer_name
 					],
-					"store"=> true
+					"store"=> false
 				]
 			]
 		]
